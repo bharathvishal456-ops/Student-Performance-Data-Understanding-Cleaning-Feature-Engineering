@@ -1,0 +1,16 @@
+Student_ID,Name,Age,Gender,Course,Maths,Python,English,Computer_Science,Attendance_Percent,CGPA,Assignment_Submitted,Performance
+1,Arun,19,Male,BCA,78,82,75,80,2,8.5,Yes,Pass
+2,Priya,20,Female,BCA,88,91,86,92,1,9.2,Yes,Pass
+3,Karthik,19,Male,BCA,65,70,68,72,5,7.1,No,Pass
+4,Divya,20,Female,BCA,92,95,90,94,0,9.6,Yes,Pass
+5,Rahul,21,Male,BCA,55,60,58,62,8,6.2,No,Pass
+6,Sneha,19,Female,BCA,72,76,74,78,3,8.0,Yes,Pass
+7,Vishal,20,Male,BCA,81,85,79,83,2,8.7,Yes,Pass
+8,Meena,19,Female,BCA,48,52,50,55,10,5.8,No,Fail
+9,Ajay,21,Male,BCA,69,73,67,70,4,7.5,Yes,Pass
+10,Anitha,20,Female,BCA,85,88,84,87,1,9.0,Yes,Pass
+11,Suresh,19,Male,BCA,60,64,61,65,6,6.8,No,Pass
+12,Nithya,20,Female,BCA,76,80,77,79,2,8.3,Yes,Pass
+13,Manoj,21,Male,BCA,45,49,47,50,12,5.4,No,Fail
+14,Keerthi,19,Female,BCA,90,93,89,91,0,9.5,Yes,Pass
+15,Ravi,20,Male,BCA,73,75,71,76,3,7.9,Yes,Pass
